@@ -3,7 +3,7 @@
 
 <body>
 <h1 align="center">Hi 👋, I'm Joaquín Rodriguez</h1>
-<h3 align="center">A passionate frontend developer from In Argentina</h3>
+<h3 align="center">A passionate developer from In Argentina</h3>
 
 <div>
 <p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p></div>
